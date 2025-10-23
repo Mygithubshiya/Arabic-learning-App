@@ -1,0 +1,7 @@
+{
+  "name": "Arabic Teacher AI",
+  "description": "An interactive AI-powered application to help you learn Arabic. The AI teacher speaks to you, listens to your responses, and teaches you new words with visual aids.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
